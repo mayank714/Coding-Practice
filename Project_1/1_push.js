@@ -1,7 +1,7 @@
 // push appends 1 or more values at the end of array
 // push returns the new length of array
 
-let arr = [20, 30, 80, 100, 40];
+let arr = [20, 30, 80, 100, 40] ;
 displayArray(arr);
 
 arr.push(1000);
