@@ -11,6 +11,7 @@ Array.prototype.myfilter=function(cb){
 
     }
     return res;
+    // 
 }
 arr=[10,20,30,40,15,17]
 let res=arr.myfilter((v,i,oarr)=>v%2!=0);
